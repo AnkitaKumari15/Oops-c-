@@ -1,4 +1,4 @@
-// sum of n natural number by using do-while loop
+// sum of n natural number by using for loop
 #include<iostream>
 using namespace std;
 class A
